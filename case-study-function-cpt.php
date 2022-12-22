@@ -3,8 +3,7 @@
 //New CPT - CASE STUDY - Herson Martinez
 
 //FUNCTION CUSTOM POST TYPE
-/*          CASE STUDY TAG FOR MENU MAIN WORDPRESS  
-                DIVI - HITEDIGITAL                  */
+/*          CASE STUDY TAG FOR MENU MAIN WORDPRESS                  */
 
                 function case_study_cpt(){
                     //definiendo los nombres de las etiquetas de nombre
